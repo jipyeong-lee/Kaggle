@@ -1,4 +1,4 @@
-* [kaggle] 산학연계공모전 - 매니저 매칭 성공여부 예측 대회
+# [kaggle] 산학연계공모전 - 매니저 매칭 성공여부 예측 대회
 ![image](https://user-images.githubusercontent.com/77089771/149356508-50ae02d4-959c-4c22-827e-5917f99e1fc4.png)
 ## Evaluation
 * ROC-AUC
